@@ -1,7 +1,5 @@
 # _Resort Website_
 
-#### _A program that takes you away._
-
 #### By _**Aaron Kauffman**_
 #### By _**Shaun Kent**_
 #### By _**Alex Dominguez**_
@@ -23,7 +21,6 @@ _A website about travel._
 * _Contimplate dissapointment._
 
 
-## License
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
